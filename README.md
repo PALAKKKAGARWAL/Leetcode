@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
