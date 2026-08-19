@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
