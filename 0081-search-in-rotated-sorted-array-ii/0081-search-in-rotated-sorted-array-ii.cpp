@@ -12,7 +12,7 @@ public:
             if(nums[left]==nums[mid] && nums[right]==nums[mid]){
                 left++;
                 right--;
-            }else if(nums[left]<=nums[mid]){
+            }else if(nums[left]<=nums[mid]){ // to check which half is sorted
                    if(nums[left]<=target&& nums[mid]>target)
                     right=mid-1;
                     else
