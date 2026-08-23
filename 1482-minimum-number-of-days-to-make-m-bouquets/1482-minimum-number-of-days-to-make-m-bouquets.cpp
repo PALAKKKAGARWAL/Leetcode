@@ -26,16 +26,16 @@ int minDays(vector<int>& arr, int m,int k){
 
     int low=mini;
     int high=maxi;
-    int result=-1;
+    // int result=-1;
     while(low<=high){
         int mid = (low+high)/2;
         if(Garden(arr,mid,m,k)){
-            result=mid;
+            // result=mid;
             high=mid-1;
         }else{
             low=mid+1;
         }
     }
-    return result;
+    return low;
 }
 };
