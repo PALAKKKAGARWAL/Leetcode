@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
