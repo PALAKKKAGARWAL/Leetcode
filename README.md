@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
