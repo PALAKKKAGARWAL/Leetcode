@@ -12,7 +12,7 @@ public:
                     for(int j=0;j<count;j++){
                         ans+=(char)i;
                     }
-                    freq[i]=0;
+                    // freq[i]=0;
                 }
             }
         }
