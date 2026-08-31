@@ -29,7 +29,7 @@ public:
         ListNode* prev=NULL;
         while(temp!=NULL){
             if(p==k){
-                prev->next=temp->next;
+                prev->next=prev->next->next;
                 break;
             }
             p++;
