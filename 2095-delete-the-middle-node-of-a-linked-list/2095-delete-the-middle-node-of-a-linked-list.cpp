@@ -15,10 +15,7 @@ public:
         return head;
        }
        if(head->next==NULL){
-        ListNode* temp=head;
-        head=head->next;
-        
-        return head;
+        return NULL;
        }
         ListNode*  temp=head;
         ListNode* prev =NULL;
