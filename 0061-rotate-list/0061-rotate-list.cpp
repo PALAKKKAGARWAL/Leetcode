@@ -39,7 +39,7 @@ public:
             prev->next=NULL;
             end->next=start;
             head=end;
-            end=prev;
+            
             k--;
         }
         return head;
