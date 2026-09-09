@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        // stack and hash map;
         stack<int> st;
         unordered_map<int, int> mp;
 
