@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0054-spiral-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
