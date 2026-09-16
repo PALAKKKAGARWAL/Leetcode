@@ -3,9 +3,9 @@ public:
     string removeKdigits(string num, int k) {
         int n=num.size();
         stack<char> st;
-        if(n==k){
-            return "0";
-        }
+        // if(n==k){
+        //     return "0";
+        // }
         int p=0;
         for(int i=0;i<n;i++){
             
