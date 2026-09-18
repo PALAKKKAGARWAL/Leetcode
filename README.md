@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1922-count-good-numbers) |
 ## String
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
