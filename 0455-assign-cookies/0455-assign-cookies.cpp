@@ -8,14 +8,12 @@ public:
         int count =0;
         int i=0;
         int j=0;
-        while(i<n && j<m){
+        while(j<m && i<n){
         if(s[j]>=g[i]){
             i++;
-            j++;
             count++;
-        }else{
-            j++;
         }
+            j++;
         }
         return count;
     }
