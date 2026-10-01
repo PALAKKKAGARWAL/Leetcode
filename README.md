@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Math
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Trie
 |  |
 | ------- |
