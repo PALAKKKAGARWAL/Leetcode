@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Math
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0231-power-of-two) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1922-count-good-numbers) |
 ## String
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PALAKKKAGARWAL/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Algorithm X
