@@ -22,6 +22,7 @@ public:
             return false;
         }
         return check(p->left,q->right) && check(p->right,q->left);
+        
     }
     bool isSymmetric(TreeNode* root) {
        if(root==NULL){
